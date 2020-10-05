@@ -23,6 +23,6 @@
   "dependencies": {
     "async": "~0.2.10",
     "node.extend": "^2.0.2",
-    "scp2": "^0.5.0"
+    "scp2": "git+ssh://git@github.com/kaminaly/node-scp2.git"
   }
 }
